@@ -6,3 +6,4 @@ This project explores the titanic dataset and builds a logistic regression model
 Unwanted columns were removed from the dataset
 The Age column was feature scaled. 
 Dropped unwanted values 
+Ive edited it 
